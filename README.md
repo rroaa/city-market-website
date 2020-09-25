@@ -64,9 +64,9 @@ FOREIGN KEY (supplier_id) REFERENCES suppliers(supplier_id)
 INSERT INTO `staff`(`ID`, `s_name`, `phone`, `password`) VALUES (1234567899,'Roaa','0500000000','123123')
 ```
 
-* How to run CityMarket: 
+# How to run CityMarket: 
 1. Download XAMPP program.
 2. Start the XAMPP program.
 3. Place CityMarket file in the "HTDocs" folder located under the "XAMMP" folder.
-4. Go to Xampp Program and click on 'Go to application' button.
+4. Go to XAMPP Program and click on 'Go to application' button.
 5. Click on CityMarket folder then click on login.php.
