@@ -2,7 +2,7 @@
 session_start();
 
 $servername ="localhost";
-$username ="roaa";
+$username ="root";
 $password ="";
 $dbname ="City_Market";
 $message = "";
