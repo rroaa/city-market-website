@@ -31,7 +31,6 @@ create table staff(
 ID INT(10) NOT NULL,
 s_name VARCHAR(30) NOT NULL,
 phone VARCHAR(10) NOT NULL,
-privillege VARCHAR(30) NOT NULL,
 password VARCHAR(10) NOT NULL,
 PRIMARY KEY(ID)
 );
