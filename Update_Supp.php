@@ -26,7 +26,7 @@ $sql2="UPDATE suppliers SET company_name ='$suppName',email='$suppEmail',contact
 $result=mysqli_query($conn, $sql1);
 
 if (mysqli_num_rows($result)>0){
-if (mysqli_query($conn, $sql)){
+if (mysqli_query($conn, $sql2)){
 
 	$message ="You updated the supplier successfully";
 }
