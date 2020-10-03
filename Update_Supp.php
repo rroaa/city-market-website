@@ -131,7 +131,7 @@ mysqli_close($conn);
 						Supplier Contact No.
 					</span>
 					<div class="wrap-input100 validate-input m-b-36" data-validate = "Contact No. is required">
-						<input class="input100" type="Number" name="supp_num" >
+						<input class="input100" type="tel" placeholder="92xxxxxxxx" pattern="[9][2][0-9][0-9][0-9][0-9][0-9][0-9][0-9][0-9]" name="supp_num" >
 						<span class="focus-input100"></span>
 					</div>
 				
