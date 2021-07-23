@@ -1,5 +1,5 @@
-# CityMarket
-City Market is a simple website where supermarket's staff can manage the supermarket operations such as adding new items to the supermarket, contract with new suppliers and add them to the suppliers list. In addition to update their information and view lists of them. 
+# CityMarket Website
+City Market is a simple website where supermarket's staff can manage the supermarket operations such as adding new items to the supermarket, contract with new suppliers and add them to the suppliers list. In addition to update and view their information.
 
 Made as a pre-requisite for the testing phase in ISTQB Bootcamp's capstone project. 
 
